@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/Users/loganspencer/Desktop/Repos/CSharp/logwasp@gmail.com/Chess/Content/ball.png","/Users/loganspencer/Desktop/Repos/CSharp/logwasp@gmail.com/Chess/Content/bin/DesktopGL/Content/ball.xnb","TextureProcessor","Texture2DContent",8368,16469,0.838173
+"/Users/loganspencer/Desktop/Repos/CSharp/logwasp@gmail.com/Chess/Content/WoodTile.png","/Users/loganspencer/Desktop/Repos/CSharp/logwasp@gmail.com/Chess/Content/bin/DesktopGL/Content/WoodTile.xnb","TextureProcessor","Texture2DContent",45283,147541,0.435259
